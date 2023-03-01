@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println();
 
-        ArrayList<Training> trainingAttendee = new ArrayList<>();
+        List<Training> trainingAttendee = new ArrayList<>();
         trainingAttendee.add(manager);
         trainingAttendee.add(programmer);
 
@@ -42,7 +42,7 @@ public class Main {
 
         System.out.println();
 
-        ArrayList<Employee> employeesList = new ArrayList<>();
+        List<Employee> employeesList = new ArrayList<>();
         employeesList.add(manager);
         employeesList.add(programmer);
 
